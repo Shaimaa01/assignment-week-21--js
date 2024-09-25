@@ -1,0 +1,38 @@
+[
+    {
+      "id": "1",
+      "writer_name": "Alice",
+      "department": "Philosophy",
+      "title": "The Mind vs. The Heart",
+      "content": "In every human decision, the mind and heart engage in an endless dance. The mind seeks logic, while the heart yearns for passion. Together, they create the balance that defines who we are."
+    },
+    {
+      "id": "2",
+      "writer_name": "David",
+      "department": "Psychology",
+      "title": "The Complexity of the Human Spirit",
+      "content": "The human spirit is a puzzle of emotions, intellect, and intuition. We struggle between understanding ourselves and the world, often torn between what we know and what we feel."
+    },
+    {
+      "id": "3",
+      "writer_name": "Wendy",
+      "department": "Fantasy",
+      "title": "The Allure of Neverland",
+      "content": "Neverland is a place where dreams never die, where time stands still, and where the spirit of youth reigns. It represents the eternal longing for freedom and the innocence we hope to never lose."
+    },
+    {
+      "id": "4",
+      "writer_name": "Peter",
+      "department": "Adventure",
+      "title": "Chasing Neverland",
+      "content": "To chase Neverland is to chase the impossible. It is a journey of endless curiosity, adventure, and a refusal to grow old. But what if we never find it?"
+    },
+    {
+      "id": "5",
+      "writer_name": "Emma",
+      "department": "Spirituality",
+      "title": "The Eternal Conflict of Mind and Heart",
+      "content": "The heart wants what it wants, but the mind knows what is best. This eternal conflict shapes the human experience, as we seek the balance between desires and reason."
+    }
+  ]
+ 
